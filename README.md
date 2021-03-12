@@ -36,7 +36,7 @@
 
 ## Overview
 
-  <img src="./images/dc5Desktop.jpg" alt="Desktop View">
+  <img src="./images/dc5Desktop.png" alt="Desktop View">
   <img src="./images/dc5Mobile.png" alt="Mobile View">
 
 
